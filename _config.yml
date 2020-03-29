@@ -4,7 +4,7 @@ title: "Education et la technologie"
 description: "Une série d'articles qui expliquent comment incorporer la technologie dans l'éducation."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: '/ed-tech'
 google_analytics: 'UA-162167668-1'
 disqus: 'ed-tech'
 include: ["_pages"]
@@ -17,7 +17,7 @@ authors:
     display_name: Robert Antoine
     gravatar: 663b25d27154abe5884713df031942e6
     email: rob@musingmonkeys.com
-    web: https://ed-tech.github.io/
+    web: https://rjantoine.github.io/ed-tech/
     description: "Auteur de Ed-Tech, une série d'articles qui explique comment incorporer la technologie dans l'éducation."
 
 # Plugins

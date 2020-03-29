@@ -13,19 +13,19 @@ beforetoc: "Il existe plusieurs outils pour numériser des pages. Voici les 3 pl
 ---
 ## À ne pas faire
 
-![photo livre](/assets/images/posts/photo-livre.jpg)
+![photo livre]({{ site.baseurl }}/assets/images/posts/photo-livre.jpg)
 
 Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement des ombrages et de la décoloration. Surtout que les autres méthodes sont encore plus facile!
 
 ## Sur le iPhone ou iPad
 
 {% capture row %}
-[![Ouvre fichiers](/assets/images/posts/scan-ios-6.jpg){: .img-fluid}](/assets/images/posts/scan-ios-6.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers](/assets/images/posts/scan-ios-1.jpg){: .img-fluid}](/assets/images/posts/scan-ios-1.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers](/assets/images/posts/scan-ios-3.jpg){: .img-fluid}](/assets/images/posts/scan-ios-3.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers](/assets/images/posts/scan-ios-5.jpg){: .img-fluid}](/assets/images/posts/scan-ios-5.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers](/assets/images/posts/scan-ios-7.jpg){: .img-fluid}](/assets/images/posts/scan-ios-7.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers](/assets/images/posts/scan-ios-8.jpg){: .img-fluid}](/assets/images/posts/scan-ios-8.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-6.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-6.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-1.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-1.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-3.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-3.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-5.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-5.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-7.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-7.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-8.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-8.jpg){: data-toggle="lightbox"}---
 {% endcapture %}
 
 {% assign row = row | split: "---" %}
@@ -68,4 +68,4 @@ Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement de
 .ekko-lightbox{display:-ms-flexbox!important;display:flex!important;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;padding-right:0!important}.ekko-lightbox-container{position:relative}.ekko-lightbox-container>div.ekko-lightbox-item{position:absolute;top:0;left:0;bottom:0;right:0;width:100%}.ekko-lightbox iframe{width:100%;height:100%}.ekko-lightbox-nav-overlay{z-index:1;position:absolute;top:0;left:0;width:100%;height:100%;display:-ms-flexbox;display:flex}.ekko-lightbox-nav-overlay a{-ms-flex:1;flex:1;display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;opacity:0;transition:opacity .5s;color:#fff;font-size:30px;z-index:1}.ekko-lightbox-nav-overlay a>*{-ms-flex-positive:1;flex-grow:1}.ekko-lightbox-nav-overlay a>:focus{outline:none}.ekko-lightbox-nav-overlay a span{padding:0 30px}.ekko-lightbox-nav-overlay a:last-child span{text-align:right}.ekko-lightbox-nav-overlay a:hover{text-decoration:none}.ekko-lightbox-nav-overlay a:focus{outline:none}.ekko-lightbox-nav-overlay a.disabled{cursor:default;visibility:hidden}.ekko-lightbox a:hover{opacity:1;text-decoration:none}.ekko-lightbox .modal-dialog{display:none}.ekko-lightbox .modal-footer{text-align:left}.ekko-lightbox-loader{position:absolute;top:0;left:0;bottom:0;right:0;width:100%;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.ekko-lightbox-loader>div{width:40px;height:40px;position:relative;text-align:center}.ekko-lightbox-loader>div>div{width:100%;height:100%;border-radius:50%;background-color:#fff;opacity:.6;position:absolute;top:0;left:0;animation:a 2s infinite ease-in-out}.ekko-lightbox-loader>div>div:last-child{animation-delay:-1s}.modal-dialog .ekko-lightbox-loader>div>div{background-color:#333}@keyframes a{0%,to{transform:scale(0);-webkit-transform:scale(0)}50%{transform:scale(1);-webkit-transform:scale(1)}}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
-<script src="/assets/js/lightbox.js"></script>
+<script src="{{ site.baseurl }}/assets/js/lightbox.js"></script>

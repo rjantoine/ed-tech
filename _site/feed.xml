@@ -3,17 +3,17 @@
   <channel>
     <title>Education et la technologie</title>
     <description>Une série d'articles qui expliquent comment incorporer la technologie dans l'éducation.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Mar 2020 17:57:04 -0400</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2020 17:57:04 -0400</lastBuildDate>
+    <link>http://localhost:4000/ed-tech/</link>
+    <atom:link href="http://localhost:4000/ed-tech/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 Mar 2020 18:25:46 -0400</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2020 18:25:46 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Numériser une page avec votre téléphone</title>
         <description>&lt;h2 id=&quot;à-ne-pas-faire&quot;&gt;À ne pas faire&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/posts/photo-livre.jpg&quot; alt=&quot;photo livre&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/photo-livre.jpg&quot; alt=&quot;photo livre&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement des ombrages et de la décoloration. Surtout que les autres méthodes sont encore plus facile!&lt;/p&gt;
 
@@ -24,37 +24,37 @@
     
         &lt;div class=&quot;col-sm&quot;&gt;
             
-&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-6.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-6.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/ed-tech/assets/images/posts/scan-ios-6.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/scan-ios-6.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
         &lt;/div&gt;&lt;!-- .col-sm --&gt;
     
         &lt;div class=&quot;col-sm&quot;&gt;
             
-&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-1.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-1.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/ed-tech/assets/images/posts/scan-ios-1.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/scan-ios-1.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
         &lt;/div&gt;&lt;!-- .col-sm --&gt;
     
         &lt;div class=&quot;col-sm&quot;&gt;
             
-&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-3.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-3.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/ed-tech/assets/images/posts/scan-ios-3.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/scan-ios-3.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
         &lt;/div&gt;&lt;!-- .col-sm --&gt;
     
         &lt;div class=&quot;col-sm&quot;&gt;
             
-&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-5.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-5.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/ed-tech/assets/images/posts/scan-ios-5.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/scan-ios-5.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
         &lt;/div&gt;&lt;!-- .col-sm --&gt;
     
         &lt;div class=&quot;col-sm&quot;&gt;
             
-&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-7.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-7.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/ed-tech/assets/images/posts/scan-ios-7.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/scan-ios-7.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
         &lt;/div&gt;&lt;!-- .col-sm --&gt;
     
         &lt;div class=&quot;col-sm&quot;&gt;
             
-&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-8.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-8.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/ed-tech/assets/images/posts/scan-ios-8.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/scan-ios-8.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
         &lt;/div&gt;&lt;!-- .col-sm --&gt;
     
@@ -111,12 +111,12 @@
 
 &lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js&quot;&gt;&lt;/script&gt;
 
-&lt;script src=&quot;/assets/js/lightbox.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;/ed-tech/assets/js/lightbox.js&quot;&gt;&lt;/script&gt;
 
 </description>
         <pubDate>Sun, 29 Mar 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/numeriser-une-page/</link>
-        <guid isPermaLink="true">http://localhost:4000/numeriser-une-page/</guid>
+        <link>http://localhost:4000/ed-tech/numeriser-une-page/</link>
+        <guid isPermaLink="true">http://localhost:4000/ed-tech/numeriser-une-page/</guid>
         
         <category>iPhone</category>
         
@@ -144,8 +144,8 @@
 &lt;p&gt;SVP retourner à la &lt;a href=&quot;/&quot;&gt;page principale&lt;/a&gt; ou naviguer le &lt;a href=&quot;#&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarMediumish&quot;&gt;menu&lt;/a&gt; pour retrouver plusieurs articles utiles.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Mar 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/nouveau-site/</link>
-        <guid isPermaLink="true">http://localhost:4000/nouveau-site/</guid>
+        <link>http://localhost:4000/ed-tech/nouveau-site/</link>
+        <guid isPermaLink="true">http://localhost:4000/ed-tech/nouveau-site/</guid>
         
         
       </item>

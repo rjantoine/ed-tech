@@ -1,32 +1,32 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "http://localhost:4000/ed-tech/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/categories",
+    "url": "http://localhost:4000/ed-tech/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 2,
-    "url": "http://localhost:4000/",
+    "url": "http://localhost:4000/ed-tech/",
     "title": "Home",
     "body": "      En vedette:                                                                                                                                                                                                           Numériser une page avec votre téléphone              :               Il existe plusieurs outils pour numériser des pages. Voici les 3 plus faciles. :                                                                                                                                                                       Robert Antoine                                                    aujourd'hui                                                                                                                                            Articles:                                                                                                     Bienvenue au nouveau site      :       Étant donnée la situation présente, j'ai décidé de commencer un site pour montrer comment utiliser des outils qui pourraient vous être utiles. :                                                                               Robert Antoine                                      29 Mar 2020                                                              "
     }, {
     "id": 3,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "http://localhost:4000/ed-tech/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 4,
-    "url": "http://localhost:4000/numeriser-une-page/",
+    "url": "http://localhost:4000/ed-tech/numeriser-une-page/",
     "title": "Numériser une page avec votre téléphone",
     "body": "2020/03/29 - À ne pas faire: Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement des ombrages et de la décoloration. Surtout que les autres méthodes sont encore plus facile! Sur le iPhone ou iPad:                                                                                                                           Ouvrez le l’appli Fichiers qui fait partie du système iOS.  Sur le premier écran, touchez les trois petits points en haut à droite. Si vous êtes déjà dans un dossier, vous devez plutôt glisser la page vers le pas pour faire apparaître les 3 petits points.  Choisissez “Numériser des documents”.  Tenez votre téléphone par dessus le document en tentant d’éviter des ombrages, elle devrait prendre la photo automatiquement. Si non, vous pouvez poussez sur le bouton pour prendre une photo et l’ajuster par la suite.  Vous finissez avec un PDF du document bien cadré avec la luminosité, la couleur et le contraste ajusté automatiquement pour vous. Sur Android (ex: Samsung Galaxy):  Ouvrez le l’appli Google Drive qui fait partie du système Android.  Touchez le bouton “+” blue en bas à droite.  Choisissez la caméra.  Tenez votre téléphone par dessus le document en tentant d’éviter des ombrages, elle devrait prendre la photo automatiquement. Si non, vous pouvez poussez sur le bouton pour prendre une photo et l’ajuster par la suite.  Vous finissez avec un PDF du document bien cadré avec la luminosité, la couleur et le contraste ajusté automatiquement pour vous. Avec Rocketbook: Rocketbook est un logiciel disponible sur iOS et Android qui facilite énormément la numérotation des feuilles. Vous avez aussi l’option d’automatiquement envoyer les fichiers à des endroits prédéterminés tel qu’un Google Drive, un courriel, etc. Le seul petit problème c’est qu’il nécessite des feuilles spécifiques. Pas de soucis par contre car ils offrent ces feuilles gratuitement! C’est vraiment l’option le plus simple et le plus puissant.  Rocketbook - Comment ça fonctionne Rocketbook For Educators – Medium Dropbox - Rocketbook Free PDF Sheets - Simplify your life "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/nouveau-site/",
+    "url": "http://localhost:4000/ed-tech/nouveau-site/",
     "title": "Bienvenue au nouveau site",
     "body": "2020/03/29 - Étant donnée la situation présente, j’ai décidé de commencer un site pour démontrer comment utiliser des outils qui pourraient vous être utiles. Je suis enseignant au secondaire qui aime beaucoup la technologie et aimerais vous partager des astuces qui seront particulièrement utile lors de l’enseignement à distance. SVP retourner à la page principale ou naviguer le menu pour retrouver plusieurs articles utiles. "
     }];
