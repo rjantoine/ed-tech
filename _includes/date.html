@@ -1,0 +1,6 @@
+{% assign post-date-string = (tdate | timeago) %}
+{% if post-date-string contains "mois" %}
+    {% include date_fr.html %}
+{% else %}
+    {{ tdate | timeago }}
+{% endif %}

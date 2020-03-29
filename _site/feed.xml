@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education et la technologie</title>
+    <description>Une série d'articles qui expliquent comment incorporer la technologie dans l'éducation.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 Mar 2020 17:57:04 -0400</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2020 17:57:04 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Numériser une page avec votre téléphone</title>
+        <description>&lt;h2 id=&quot;à-ne-pas-faire&quot;&gt;À ne pas faire&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/photo-livre.jpg&quot; alt=&quot;photo livre&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement des ombrages et de la décoloration. Surtout que les autres méthodes sont encore plus facile!&lt;/p&gt;
+
+&lt;h2 id=&quot;sur-le-iphone-ou-ipad&quot;&gt;Sur le iPhone ou iPad&lt;/h2&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    
+        &lt;div class=&quot;col-sm&quot;&gt;
+            
+&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-6.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-6.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+        &lt;/div&gt;&lt;!-- .col-sm --&gt;
+    
+        &lt;div class=&quot;col-sm&quot;&gt;
+            
+&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-1.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-1.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+        &lt;/div&gt;&lt;!-- .col-sm --&gt;
+    
+        &lt;div class=&quot;col-sm&quot;&gt;
+            
+&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-3.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-3.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+        &lt;/div&gt;&lt;!-- .col-sm --&gt;
+    
+        &lt;div class=&quot;col-sm&quot;&gt;
+            
+&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-5.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-5.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+        &lt;/div&gt;&lt;!-- .col-sm --&gt;
+    
+        &lt;div class=&quot;col-sm&quot;&gt;
+            
+&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-7.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-7.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+        &lt;/div&gt;&lt;!-- .col-sm --&gt;
+    
+        &lt;div class=&quot;col-sm&quot;&gt;
+            
+&lt;p&gt;&lt;a href=&quot;/assets/images/posts/scan-ios-8.jpg&quot; data-toggle=&quot;lightbox&quot;&gt;&lt;img src=&quot;/assets/images/posts/scan-ios-8.jpg&quot; alt=&quot;Ouvre fichiers&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+        &lt;/div&gt;&lt;!-- .col-sm --&gt;
+    
+        &lt;div class=&quot;col-sm&quot;&gt;
+            
+
+        &lt;/div&gt;&lt;!-- .col-sm --&gt;
+    
+    &lt;/div&gt;&lt;!-- .row --&gt;
+&lt;/div&gt;
+&lt;!-- .container --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ouvrez le l’appli &lt;em&gt;Fichiers&lt;/em&gt; qui fait partie du système iOS.&lt;/li&gt;
+  &lt;li&gt;Sur le premier écran, touchez les trois petits points en haut à droite. Si vous êtes déjà dans un dossier, vous devez plutôt glisser la page vers le pas pour faire apparaître les 3 petits points.&lt;/li&gt;
+  &lt;li&gt;Choisissez “Numériser des documents”.&lt;/li&gt;
+  &lt;li&gt;Tenez votre téléphone par dessus le document en tentant d’éviter des ombrages, elle devrait prendre la photo automatiquement. Si non, vous pouvez poussez sur le bouton pour prendre une photo et l’ajuster par la suite.&lt;/li&gt;
+  &lt;li&gt;Vous finissez avec un PDF du document bien cadré avec la luminosité, la couleur et le contraste ajusté automatiquement pour vous.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/omNhX8pC0j8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sur-android-ex-samsung-galaxy&quot;&gt;Sur Android (ex: Samsung Galaxy)&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ouvrez le l’appli &lt;em&gt;Google Drive&lt;/em&gt; qui fait partie du système Android.&lt;/li&gt;
+  &lt;li&gt;Touchez le bouton “+” blue en bas à droite.&lt;/li&gt;
+  &lt;li&gt;Choisissez la caméra.&lt;/li&gt;
+  &lt;li&gt;Tenez votre téléphone par dessus le document en tentant d’éviter des ombrages, elle devrait prendre la photo automatiquement. Si non, vous pouvez poussez sur le bouton pour prendre une photo et l’ajuster par la suite.&lt;/li&gt;
+  &lt;li&gt;Vous finissez avec un PDF du document bien cadré avec la luminosité, la couleur et le contraste ajusté automatiquement pour vous.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/lyU03NMDrIo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;avec-rocketbook&quot;&gt;Avec Rocketbook&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/https://getrocketbook.com/&quot;&gt;Rocketbook&lt;/a&gt; est un logiciel disponible sur &lt;a href=&quot;/https://itunes.apple.com/us/app/rocketbook-app/id1036898971/&quot;&gt;iOS&lt;/a&gt; et &lt;a href=&quot;/https://play.google.com/store/apps/details?id=com.rb.rocketbook/&quot;&gt;Android&lt;/a&gt; qui facilite énormément la numérotation des feuilles. Vous avez aussi l’option d’automatiquement envoyer les fichiers à des endroits prédéterminés tel qu’un Google Drive, un courriel, etc. Le seul petit problème c’est qu’il nécessite des feuilles spécifiques. Pas de soucis par contre car ils offrent ces &lt;a href=&quot;https://www.dropbox.com/sh/eqnsm164v0sav3v/AAA-cMxpo8BhBH8sLOFbkUe2a?dl=0&quot;&gt;feuilles&lt;/a&gt; gratuitement! C’est vraiment l’option le plus simple et le plus puissant.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getrocketbook.com/pages/how-it-works&quot;&gt;Rocketbook - Comment ça fonctionne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/rocketbook-for-educators&quot;&gt;Rocketbook For Educators – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/sh/eqnsm164v0sav3v/AAA-cMxpo8BhBH8sLOFbkUe2a?dl=0&quot;&gt;Dropbox - Rocketbook Free PDF Sheets - Simplify your life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Fp-cMb-b6V4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;style&gt;
+.ekko-lightbox{display:-ms-flexbox!important;display:flex!important;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;padding-right:0!important}.ekko-lightbox-container{position:relative}.ekko-lightbox-container&gt;div.ekko-lightbox-item{position:absolute;top:0;left:0;bottom:0;right:0;width:100%}.ekko-lightbox iframe{width:100%;height:100%}.ekko-lightbox-nav-overlay{z-index:1;position:absolute;top:0;left:0;width:100%;height:100%;display:-ms-flexbox;display:flex}.ekko-lightbox-nav-overlay a{-ms-flex:1;flex:1;display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;opacity:0;transition:opacity .5s;color:#fff;font-size:30px;z-index:1}.ekko-lightbox-nav-overlay a&gt;*{-ms-flex-positive:1;flex-grow:1}.ekko-lightbox-nav-overlay a&gt;:focus{outline:none}.ekko-lightbox-nav-overlay a span{padding:0 30px}.ekko-lightbox-nav-overlay a:last-child span{text-align:right}.ekko-lightbox-nav-overlay a:hover{text-decoration:none}.ekko-lightbox-nav-overlay a:focus{outline:none}.ekko-lightbox-nav-overlay a.disabled{cursor:default;visibility:hidden}.ekko-lightbox a:hover{opacity:1;text-decoration:none}.ekko-lightbox .modal-dialog{display:none}.ekko-lightbox .modal-footer{text-align:left}.ekko-lightbox-loader{position:absolute;top:0;left:0;bottom:0;right:0;width:100%;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.ekko-lightbox-loader&gt;div{width:40px;height:40px;position:relative;text-align:center}.ekko-lightbox-loader&gt;div&gt;div{width:100%;height:100%;border-radius:50%;background-color:#fff;opacity:.6;position:absolute;top:0;left:0;animation:a 2s infinite ease-in-out}.ekko-lightbox-loader&gt;div&gt;div:last-child{animation-delay:-1s}.modal-dialog .ekko-lightbox-loader&gt;div&gt;div{background-color:#333}@keyframes a{0%,to{transform:scale(0);-webkit-transform:scale(0)}50%{transform:scale(1);-webkit-transform:scale(1)}}
+&lt;/style&gt;
+
+&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/lightbox.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/numeriser-une-page/</link>
+        <guid isPermaLink="true">http://localhost:4000/numeriser-une-page/</guid>
+        
+        <category>iPhone</category>
+        
+        <category>iOS</category>
+        
+        <category>Android</category>
+        
+        <category>Google Drive</category>
+        
+        <category>Rocketbook</category>
+        
+        
+        <category>numériser</category>
+        
+        <category>téléphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Bienvenue au nouveau site</title>
+        <description>&lt;p&gt;Étant donnée la situation présente, j’ai décidé de commencer un site pour démontrer comment utiliser des outils qui pourraient vous être utiles.&lt;/p&gt;
+
+&lt;p&gt;Je suis enseignant au secondaire qui aime beaucoup la technologie et aimerais vous partager des astuces qui seront particulièrement utile lors de l’enseignement à distance.&lt;/p&gt;
+
+&lt;p&gt;SVP retourner à la &lt;a href=&quot;/&quot;&gt;page principale&lt;/a&gt; ou naviguer le &lt;a href=&quot;#&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarMediumish&quot;&gt;menu&lt;/a&gt; pour retrouver plusieurs articles utiles.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/nouveau-site/</link>
+        <guid isPermaLink="true">http://localhost:4000/nouveau-site/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

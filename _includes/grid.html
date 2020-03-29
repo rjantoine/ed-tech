@@ -1,0 +1,9 @@
+<div class="container">
+    <div class="row">
+    {% for column in row %}
+        <div class="col-sm">
+            {{ column | markdownify }}
+        </div><!-- .col-sm -->
+    {% endfor %}
+    </div><!-- .row -->
+</div><!-- .container -->

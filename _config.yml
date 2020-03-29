@@ -1,0 +1,71 @@
+# Site
+name: "Education et la technologie"
+title: "Education et la technologie"
+description: "Une série d'articles qui expliquent comment incorporer la technologie dans l'éducation."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: 'UA-162167668-1'
+disqus: 'ed-tech'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  rob:
+    name: Robert Antoine
+    display_name: Robert Antoine
+    gravatar: 663b25d27154abe5884713df031942e6
+    email: rob@musingmonkeys.com
+    web: https://ed-tech.github.io/
+    description: "Auteur de Ed-Tech, une série d'articles qui explique comment incorporer la technologie dans l'éducation."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-timeago
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+
+#Timeago
+jekyll_timeago:
+  depth: 2
+  default_locale: 'fr'
+  fallbacks: true
+  available_locales:
+    - 'fr'
+    - 'en'
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
