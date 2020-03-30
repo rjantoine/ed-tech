@@ -5,9 +5,99 @@
     <description>Une série d'articles qui expliquent comment incorporer la technologie dans l'éducation.</description>
     <link>http://localhost:4000/ed-tech/</link>
     <atom:link href="http://localhost:4000/ed-tech/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Mar 2020 18:28:10 -0400</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2020 18:28:10 -0400</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2020 23:23:29 -0400</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2020 23:23:29 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Organiser une visioconférence Google Meet</title>
+        <description>&lt;h2 id=&quot;google-meet&quot;&gt;Google Meet&lt;/h2&gt;
+&lt;p&gt;Vous voulez parler à tous vous élèves d’un seul coup?&lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui utilisent &lt;em&gt;Google&lt;/em&gt;, &lt;em&gt;Google Meet&lt;/em&gt; est probablement le choix le plus simple et directe. Il permet également à inclure les élèves qui n’ont pas une internet à haute vitesse par téléphone.&lt;/p&gt;
+
+&lt;h2 id=&quot;avant&quot;&gt;Avant&lt;/h2&gt;
+&lt;h3 id=&quot;établir-un-temps-de-rencontre&quot;&gt;Établir un temps de rencontre&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Visitez &lt;a href=&quot;https://calendar.google.com/&quot;&gt;Agenda Google&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Créez un événement &lt;img src=&quot;/ed-tech/assets/images/posts/agenda-creer.png&quot; alt=&quot;Bouton Créez un événement&quot; style=&quot;max-height:50px&quot; /&gt; pour la rencontre (peu importe le calendrier, mais il serait bien de le mettre dans le calendrier du &lt;em&gt;Classroom&lt;/em&gt; si tu peux le trouver) en précisant le titre et la date et l’heure.&lt;/li&gt;
+  &lt;li&gt;Cliquez sur &lt;em&gt;Ajouter des salles, des lieux ou des conférences&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Du menu qui apparait, cliquez sur ajouter un visioconférence.&lt;/li&gt;
+  &lt;li&gt;Cliquez sur le ⌄ à la droite pour agrandir le champ.&lt;/li&gt;
+  &lt;li&gt;Mettez votre curseur sur le lien &lt;code class=&quot;highlighter-rouge&quot;&gt;meet.google.com/CODE&lt;/code&gt;, faites touche droite et choisissez &lt;em&gt;Copier l’adresse du lien&lt;/em&gt; ou prenez notes du code manuellement.&lt;/li&gt;
+  &lt;li&gt;Enregistrez l’événement.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;partager-les-détails-avec-vos-élèves&quot;&gt;Partager les détails avec vos élèves&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Visitez &lt;a href=&quot;https://classroom.google.com&quot;&gt;Google Classroom&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Allez dans la section &lt;em&gt;Travaux et devoirs&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Créez un devoir (afin de pouvoir préciser la date et temps).&lt;/li&gt;
+  &lt;li&gt;Ajoutez un titre tel que “Vidéoconférence - La cellule”&lt;/li&gt;
+  &lt;li&gt;Ajouter une description semblable au suivant. &lt;code class=&quot;highlighter-rouge&quot;&gt;Assurez-vous d’avoir le fureteur Chrome d’installé pour la rencontre. Si vous n’avez pas accès à Internet à haute vitesse, faites moi savoir un numéro de téléphone auquel je peux vous appeler pour vous inclure dans la conférence par audio.
+&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Cliquez sur le bouton &lt;em&gt;Ajouter&lt;/em&gt; et choisissez &lt;em&gt;Lien&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Collez ou tapez l’adresse du lien pour la visioconférence.&lt;/li&gt;
+  &lt;li&gt;Cliquez sur la date limite et précisez la date et l’heure.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;pendant&quot;&gt;Pendant&lt;/h2&gt;
+&lt;p&gt;Si votre ordi vous le demande, assurez-vous de bien accepter toutes les permissions demandées tel que l’accès au microphone, à la caméra et à l’écran.&lt;/p&gt;
+
+&lt;h3 id=&quot;contrôles&quot;&gt;Contrôles&lt;/h3&gt;
+&lt;h3 id=&quot;coin-supérieur-droit&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/visio-participants.png&quot; alt=&quot;Bouton Personnage&quot; style=&quot;max-height:50px&quot; /&gt;(coin supérieur droit)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Précise le nombre de personnes dans la réunion.&lt;/li&gt;
+  &lt;li&gt;Si vous cliquez sur celui-ci, vous pouvez ajouter des personnes à la rencontre par courriel  ou &lt;strong&gt;vous pouvez les appeler à l’aide de leur numéro de téléphone&lt;/strong&gt;. De plus, si vous cliquez sur quelqu’un dans la liste, ils seront en vedette et occuperont l’écran principal.&lt;/li&gt;
+  &lt;li&gt;Si vous mettez le curseur sur le nom d’un des participants, vous pouvez cliquer sur le ⌄ à droite pour: épingler un participant au haut de la liste, couper leur microphone (l’élève peut le réactivité à n’importe quel temps) ou exclure une personne de l’appel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-en-haut-à-droite&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/visio-chat.png&quot; alt=&quot;Bouton Chat&quot; style=&quot;max-height:50px;&quot; /&gt; (en haut à droite)&lt;/h3&gt;
+&lt;p&gt;C’est une façon non-verbale pour communiquer. Souvent un meilleure option pour les élèves à converser ou poser des questions afin d’évitez la cacophonie.&lt;/p&gt;
+
+&lt;h3 id=&quot;-en-base-dans-le-milieu&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/visio-microphone.png&quot; alt=&quot;Bouton Microphone&quot; style=&quot;max-height:50px;&quot; /&gt; (en base dans le milieu)&lt;/h3&gt;
+&lt;p&gt;Permet d’activer et désactiver ton microphone, tel que si quelqu’un d’autre a droit de parole.&lt;/p&gt;
+
+&lt;h3 id=&quot;-en-base-dans-le-milieu-1&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/visio-end.png&quot; alt=&quot;Bouton Téléphone&quot; style=&quot;max-height:50px;&quot; /&gt; (en base dans le milieu)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Le téléphone rouge permet d’accrocher l’appel.&lt;/li&gt;
+  &lt;li&gt;La caméra permet d’activer et de désactiver ta caméra, tel que si tu dois te moucher le nez ou autre.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-en-bas-à-droite&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/visio-trois-points.png&quot; alt=&quot;Bouton Trois points&quot; style=&quot;max-height:50px;&quot; /&gt; (en bas à droite)&lt;/h3&gt;
+&lt;p&gt;Ceux-ci offrent plusieurs options, dont.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Enregistrer la réunion&lt;/em&gt; pour les élèves absents. À noter que vous enregistrez vos élèves aussi, alors soyez avertis.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Paramètres&lt;/em&gt; vous permet de changer de microphone ou caméra.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-en-bas-à-droite-1&quot;&gt;&lt;img src=&quot;/ed-tech/assets/images/posts/visio-presenter.png&quot; alt=&quot;Bouton Presenter Maintenant&quot; style=&quot;max-height:50px;&quot; /&gt; (en bas à droite)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vous pouvez présenter toute votre écran d’ordi, ou une option plus privée serait de présenter une seule fenêtre, tel que la fenêtre qui a votre Google Slides.&lt;/li&gt;
+  &lt;li&gt;Quand vous avez fini de présenter l’écran, choisissez &lt;em&gt;Arrêter la présentation&lt;/em&gt;. Ceci vous retournera à présenter votre caméra.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;après&quot;&gt;Après&lt;/h2&gt;
+&lt;p&gt;Pour faciliter la prochaine fois, vous pouvez garder en note le code du Meet. Vous pouvez réutiliser ce code la prochaine fois que vous crééez un Meet.&lt;/p&gt;
+
+&lt;p&gt;Pour plus de détails, visitez &lt;a href=&quot;https://support.google.com/meet/answer/9303069?co=GENIE.Platform%3DDesktop&amp;amp;hl=fr&quot;&gt;Support Google - Aide Hangouts Meet&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/ed-tech/organiser-un-Google-Meet/</link>
+        <guid isPermaLink="true">http://localhost:4000/ed-tech/organiser-un-Google-Meet/</guid>
+        
+        <category>Meet</category>
+        
+        <category>Google</category>
+        
+        <category>vidéoconférences</category>
+        
+        
+        <category>téléphone</category>
+        
+        <category>Google</category>
+        
+      </item>
     
       <item>
         <title>Numériser une page avec votre téléphone</title>
