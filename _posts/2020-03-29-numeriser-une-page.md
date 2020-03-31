@@ -20,12 +20,12 @@ Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement de
 ## Sur le iPhone ou iPad
 
 {% capture row %}
-[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-6.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-6.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-1.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-1.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-3.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-3.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-5.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-5.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-7.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-7.jpg){: data-toggle="lightbox"}---
-[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/scan-ios-8.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-8.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/thumb/scan-ios-6.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-6.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/thumb/scan-ios-1.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-1.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/thumb/scan-ios-3.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-3.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/thumb/scan-ios-5.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-5.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/thumb/scan-ios-7.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-7.jpg){: data-toggle="lightbox"}---
+[![Ouvre fichiers]({{ site.baseurl }}/assets/images/posts/thumb/scan-ios-8.jpg){: .img-fluid}]({{ site.baseurl }}/assets/images/posts/scan-ios-8.jpg){: data-toggle="lightbox"}---
 {% endcapture %}
 
 {% assign row = row | split: "---" %}
@@ -38,7 +38,7 @@ Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement de
 4. Tenez votre téléphone par dessus le document en tentant d’éviter des ombrages, elle devrait prendre la photo automatiquement. Si non, vous pouvez poussez sur le bouton pour prendre une photo et l’ajuster par la suite.
 5. Vous finissez avec un PDF du document bien cadré avec la luminosité, la couleur et le contraste ajusté automatiquement pour vous.
 
-<p class="text-center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/omNhX8pC0j8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p class="text-center"><iframe class="youtube_noblock" width="560" height="315" src="" data-src="https://www.youtube-nocookie.com/embed/omNhX8pC0j8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ## Sur Android (ex: Samsung Galaxy)
 
@@ -49,7 +49,7 @@ Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement de
 5. Vous finissez avec un PDF du document bien cadré avec la luminosité, la couleur et le contraste ajusté automatiquement pour vous.
 
 <p class="text-center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lyU03NMDrIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube_noblock" width="560" height="315" src="" data-src="https://www.youtube-nocookie.com/embed/lyU03NMDrIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## Avec Rocketbook
@@ -61,7 +61,7 @@ Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement de
 * [Dropbox - Rocketbook Free PDF Sheets - Simplify your life](https://www.dropbox.com/sh/eqnsm164v0sav3v/AAA-cMxpo8BhBH8sLOFbkUe2a?dl=0)
 
 <p class="text-center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fp-cMb-b6V4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtube_noblock" width="560" height="315" src="" data-src="https://www.youtube-nocookie.com/embed/Fp-cMb-b6V4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> 
 
 <style>
@@ -69,3 +69,4 @@ Ne tentez pas simplement de prendre une photo d’une page, il aura sûrement de
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/lightbox.js"></script>
+<script src="{{site.baseurl}}/assets/js/youtube_noblock.js"></script>
