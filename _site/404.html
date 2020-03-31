@@ -178,11 +178,11 @@
                 
                     <a class="mt-1 mb-1" href="/ed-tech/tags#Rocketbook">Rocketbook (1)</a>
                 
-                    <a class="mt-1 mb-1" href="/ed-tech/tags#Meet">Meet (1)</a>
+                    <a class="mt-1 mb-1" href="/ed-tech/tags#Meet">Meet (2)</a>
                 
-                    <a class="mt-1 mb-1" href="/ed-tech/tags#Google">Google (1)</a>
+                    <a class="mt-1 mb-1" href="/ed-tech/tags#Google">Google (2)</a>
                 
-                    <a class="mt-1 mb-1" href="/ed-tech/tags#vidéoconférences">vidéoconférences (1)</a>
+                    <a class="mt-1 mb-1" href="/ed-tech/tags#vidéoconférences">vidéoconférences (2)</a>
                 
             
             
@@ -211,6 +211,19 @@
 
 <!-- Scripts
 ================================================== -->
+<script src="/ed-tech/assets/js/moment-with-locales.min.js"></script>
+<script>
+    $(document).ready(function(){
+//        moment.locale('fr-ca');
+        $('.timeago').each(function(i){
+            if(moment($(this).attr('datetime')).diff(moment('now'), 'days') > 365) {
+                $(this).html(moment($(this).attr('datetime')).fromNow());
+            } else {
+                $(this).html(moment($(this).attr('datetime')).fromNow());
+            }
+        });
+    });
+</script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 

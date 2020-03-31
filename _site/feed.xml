@@ -5,9 +5,45 @@
     <description>Une série d'articles qui expliquent comment incorporer la technologie dans l'éducation.</description>
     <link>http://localhost:4000/ed-tech/</link>
     <atom:link href="http://localhost:4000/ed-tech/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Mar 2020 23:23:29 -0400</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2020 23:23:29 -0400</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2020 11:01:08 -0400</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2020 11:01:08 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Comment bloquer votre identification de l’appelant (Caller ID) en faisant un appel</title>
+        <description>&lt;p&gt;Lorsque vous faites un appel à quelqu’un d’autre, votre nom et numéro sont souvent affichés sur leur téléphone. Lorsque vous appelez un élève, vous ne voulez probablement pas que l’élève connait ton numéro personnel. Voici comment le bloquer.&lt;/p&gt;
+
+&lt;h2 id=&quot;pour-bloquer-votre-numéro-de-façon-temporaire-pour-un-appel-spécifique&quot;&gt;Pour bloquer votre numéro de façon temporaire pour un appel spécifique:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Entrez *67.&lt;/li&gt;
+  &lt;li&gt;Entrez le numéro vous voulez appeler (avec le code régional) .&lt;/li&gt;
+  &lt;li&gt;Touchez le bouton &lt;em&gt;Appel&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Les mots “Private”, “Anonymous” ou semblable sera indiqué sur l’écran du récipient au lieu de votre numéro de téléphone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;À noter&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Votre identité ne sera pas bloquée pour des appels à des numéros 800 et à 911.&lt;/li&gt;
+  &lt;li&gt;Certaines personnes ont leur téléphone de configuré pour bloquer des appels venant de sources non identifiées.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/ed-tech/comment-bloquer-votre-identfication-en-faisant-un-appel/</link>
+        <guid isPermaLink="true">http://localhost:4000/ed-tech/comment-bloquer-votre-identfication-en-faisant-un-appel/</guid>
+        
+        <category>Meet</category>
+        
+        <category>Google</category>
+        
+        <category>vidéoconférences</category>
+        
+        
+        <category>téléphone</category>
+        
+        <category>Google</category>
+        
+      </item>
     
       <item>
         <title>Organiser une visioconférence Google Meet</title>
