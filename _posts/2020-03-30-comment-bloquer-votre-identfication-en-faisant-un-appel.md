@@ -6,11 +6,13 @@ categories: ['téléphone', 'Google']
 tags: ['Meet', 'Google', 'vidéoconférences']
 image: assets/images/posts/phone_private.jpg
 excerpt: "Lorsque vous faites un appel à quelqu’un d’autre, votre nom et numéro sont souvent affichés sur leur téléphone. Lorsque vous appelez un élève, vous ne voulez probablement pas que l’élève connait ton numéro personnel. Voici comment le bloquer."
+updated: 2020-04-02
 ---
 Lorsque vous faites un appel à quelqu’un d’autre, votre nom et numéro sont souvent affichés sur leur téléphone. Lorsque vous appelez un élève, vous ne voulez probablement pas que l’élève connait ton numéro personnel. Voici comment le bloquer.
 
 ## Pour bloquer votre numéro de façon temporaire pour un appel spécifique:
-1. Entrez *67.
+
+1. Si vous avez Bell ou Telus, entrez *67. Si vous avez Rogers, entrez plutôt #31#
 2. Entrez le numéro vous voulez appeler (avec le code régional) .
 3. Touchez le bouton _Appel_
 

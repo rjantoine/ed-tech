@@ -5,8 +5,8 @@
     <description>Une série d'articles qui expliquent comment incorporer la technologie dans l'éducation.</description>
     <link>http://localhost:4000/ed-tech/</link>
     <atom:link href="http://localhost:4000/ed-tech/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Apr 2020 17:17:06 -0400</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2020 17:17:06 -0400</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2020 11:50:45 -0400</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2020 11:50:45 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,8 +14,9 @@
         <description>&lt;p&gt;Lorsque vous faites un appel à quelqu’un d’autre, votre nom et numéro sont souvent affichés sur leur téléphone. Lorsque vous appelez un élève, vous ne voulez probablement pas que l’élève connait ton numéro personnel. Voici comment le bloquer.&lt;/p&gt;
 
 &lt;h2 id=&quot;pour-bloquer-votre-numéro-de-façon-temporaire-pour-un-appel-spécifique&quot;&gt;Pour bloquer votre numéro de façon temporaire pour un appel spécifique:&lt;/h2&gt;
+
 &lt;ol&gt;
-  &lt;li&gt;Entrez *67.&lt;/li&gt;
+  &lt;li&gt;Si vous avez Bell ou Telus, entrez *67. Si vous avez Rogers, entrez plutôt #31#&lt;/li&gt;
   &lt;li&gt;Entrez le numéro vous voulez appeler (avec le code régional) .&lt;/li&gt;
   &lt;li&gt;Touchez le bouton &lt;em&gt;Appel&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
