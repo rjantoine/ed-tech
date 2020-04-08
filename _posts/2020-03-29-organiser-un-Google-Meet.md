@@ -8,6 +8,7 @@ image: assets/images/posts/videoconf.jpg
 excerpt: "Pour ceux qui utilisent Google, Google Meet est probablement le choix le plus facile pour vous."
 featured: true
 hidden: true
+updated: 2020-04-08
 ---
 
 ## Google Meet
@@ -17,26 +18,33 @@ Pour ceux qui utilisent _Google_, _Google Meet_ est probablement le choix le plu
 
 ## Avant
 ### Établir un temps de rencontre
-1. Visitez [Agenda Google](https://calendar.google.com/).
-2. Créez un événement ![Bouton Créez un événement]({{site.baseurl}}/assets/images/posts/agenda-creer.png){: style="max-height:50px"} pour la rencontre (peu importe le calendrier, mais il serait bien de le mettre dans le calendrier du _Classroom_ si tu peux le trouver) en précisant le titre et la date et l’heure.
-3. Cliquez sur _Ajouter des salles, des lieux ou des conférences_.
-4. Du menu qui apparait, cliquez sur ajouter un visioconférence.
-5. Cliquez sur le ⌄ à la droite pour agrandir le champ.
-6. Mettez votre curseur sur le lien `meet.google.com/CODE`, faites touche droite et choisissez _Copier l’adresse du lien_ ou prenez notes du code manuellement.
-7. Enregistrez l’événement.
+** Mise à jour, au lieu de créer un événement à l'Agenda tel que suggéré auparavant. Je suggère maintenant créer un code d'accès unique à ton groupe afin de minimiser les risques ques les élèves se rencontrent dans le Meet quand vous n'y êtes pas.
+
+1. Visitez [Google Meet](https://meet.google.com/).
+2. Créez un code en cliquant sur _Rejoindre ou démarer une réunion_.
+3. Entrez un code unique à votre groupe, tel que "edtech-rantoine" et faites _Continuer_. ___!! Important — Assurez-vous de créer un code et ne pas laisser le champ vide ou les élèves pourront accéder la salle avant et/ou après vous.___
+4. La salle est maintenant créé, il s'agit simplement de partager ce code avec les élèves.
 
 ### Partager les détails avec vos élèves
 1. Visitez [Google Classroom](https://classroom.google.com).
 2. Allez dans la section _Travaux et devoirs_.
-3. Créez un devoir (afin de pouvoir préciser la date et temps).
+3. Créez une question si vous aimeriez préciser la date et temps de la rencontre, si non, vous pouvez simplement créer une documentation.
 4. Ajoutez un titre tel que “Vidéoconférence - La cellule”
-5. Ajouter une description semblable au suivant. ``Assurez-vous d’avoir le fureteur Chrome d’installé pour la rencontre. Si vous n’avez pas accès à Internet à haute vitesse, faites moi savoir un numéro de téléphone auquel je peux vous appeler pour vous inclure dans la conférence par audio.
-``
-7. Cliquez sur le bouton _Ajouter_ et choisissez _Lien_.
-8. Collez ou tapez l’adresse du lien pour la visioconférence.
-9. Cliquez sur la date limite et précisez la date et l’heure.
+5. Ajouter une description semblable au suivant.
+
+    > Code de rencontre: {TON_CODE_ICI Ex: edtech-rantoine}
+    >
+    > Assurez-vous d’avoir le fureteur Chrome d’installé pour la rencontre. Si vous n’avez pas accès à Internet à haute vitesse, faites moi savoir un numéro de téléphone auquel je peux vous appeler pour vous inclure dans la conférence par audio.
+
+
+6. Cliquez sur le bouton _Ajouter_ et choisissez _Lien_.
+7. Ajouter le lien à [Google Meet](https://meet.google.com/).
+8. Cliquez sur la date limite et précisez la date et l’heure.
 
 ## Pendant
+
+Ouvrez [Google Meet](https://meet.google.com/) sur le système de votre choix et entrez le code de groupe que vous avez créé auparavant.
+
 Si votre ordi vous le demande, assurez-vous de bien accepter toutes les permissions demandées tel que l’accès au microphone, à la caméra et à l’écran.
 
 ### Contrôles
@@ -65,6 +73,9 @@ Ceux-ci offrent plusieurs options, dont.
 * Quand vous avez fini de présenter l’écran, choisissez _Arrêter la présentation_. Ceci vous retournera à présenter votre caméra.
 
 ## Après
+
+___!! Important — Assurez-vous d'être le dernier à quitter la rencontre afin de s'assurer que la porte soit virtuellement vérouillé derrière vous et que les élèves ne puissent pas retourner dans le groupe et se communiquer sans votre présence.___
+
 Pour faciliter la prochaine fois, vous pouvez garder en note le code du Meet. Vous pouvez réutiliser ce code la prochaine fois que vous crééez un Meet.
 
 Pour plus de détails, visitez [Support Google - Aide Hangouts Meet](https://support.google.com/meet/answer/9303069?co=GENIE.Platform%3DDesktop&hl=fr)
