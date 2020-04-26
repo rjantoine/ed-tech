@@ -20,6 +20,11 @@ Screencastify permet de facilement installer votre écran à partir d'une simple
 4. Une fois le petit icon est visible dans la barre ![Logo Screencastify](/ed-tech/assets/images/posts/screencastify_logo.svg){: style="max-height:25px"}, cliquez sur celle-ci pour lui activer.
 5. Passe à travers des trois étapes pour lui accorder les autres permissions nécessaires.
 
+## Pour activer la version prime durant la pendémie
+1. Allez au site de [Screencastify pour vous inscrire](https://account.screencastify.com/user/sign_in?next=%2Fsubscribe%2Fedu).
+2. Entrez le code CAST_COVID
+3. Cliquez sur "Activate License" (aucune carte de crédit requise).
+
 ## Pour utiliser Screencastify
 1. Cliquez sur le logo Screencastify ![Logo Screencastify](/ed-tech/assets/images/posts/screencastify_logo.svg){: style="max-height:25px"} dans la barre d'icones. 
 2. Choisissez la partie de l'écran à enregistrer:
