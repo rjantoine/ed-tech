@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="112px" viewBox="0 0 138 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="screencastify-logo" fill="#FF8282" fill-rule="nonzero">
+            <g id="XMLID_254_">
+                <path d="M6.3,30.6 C3.2,30.6 0,33.1 0,36.2 L0,76.4 C0,79.5 3.2,81.6 6.3,81.6 L40,81.6 L40,30.6 L6.3,30.6 Z" id="XMLID_256_"></path>
+                <path d="M134.9,51.8 L103.1,33.5 L103.1,33.5 L47.9,1.7 C44.5,-0.3 40,2.2 40,6.1 L40,30.7 L76.7,30.7 C79.8,30.7 82,33.2 82,36.3 L82,45.6 L103,33.6 L103,79 L82,67 L82,76.6 C82,79.7 79.8,81.8 76.7,81.8 L40,81.8 L40,106.5 C40,110.4 44.5,112.8 47.9,110.9 L103.1,79.2 L103.1,79.2 L134.9,60.9 C138.3,58.6 138.3,53.7 134.9,51.8 Z" id="XMLID_255_"></path>
+            </g>
+        </g>
+    </g>
+</svg>
