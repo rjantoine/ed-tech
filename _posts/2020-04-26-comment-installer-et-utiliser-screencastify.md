@@ -31,4 +31,6 @@ Screencastify permet de facilement installer votre écran à partir d'une simple
 4. Cliquez sur l'icone _Pause_ et après _Stop_ pour arrêter le vidéo.
 5. Vous pouvez aussi enlever un peu du début et de la fin qui correspond peut-être au actions nécessaires pour commencer et arrêter l'enregistrement.
 
-Le vidéo sera enregistré dans votre Google Drive et vous pouvez aussi le télécharger, le partager à votre Google Classroom ou l'afficher sur YouTube. 
+Le vidéo sera enregistré dans votre Google Drive et vous pouvez aussi le télécharger, le partager à votre Google Classroom ou l'afficher sur YouTube.
+
+Allez voir [la série de vidéos présentée](https://www.screencastify.com/course/master-the-screencast/lessons) par Screencastify pour plus de renseignements. 
