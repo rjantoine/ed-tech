@@ -3,7 +3,7 @@ layout: post
 title:  "Enregistrer votre écran"
 author: rob
 categories: ['enregistrer']
-tags: ['iOS', 'iPhone', 'iPad', 'Android', 'Windows', 'Screencastify']
+tags: ['iOS', 'iPhone', 'iPad', 'Android', 'Windows', 'Screencastify', 'Chrome']
 image: assets/images/posts/screen_record.jpg
 excerpt: "Saviez-vous que vous pouvez enregistrer votre écran sur toutes les plateformes, même ton iPhone, sans avoir besoin faire recourt à des logiciels spécialisés?"
 toc: true
